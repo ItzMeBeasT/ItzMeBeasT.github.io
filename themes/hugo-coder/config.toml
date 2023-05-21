@@ -1,4 +1,4 @@
-baseURL = "https://mrdarky.github.io"
+baseURL = "daredevil.blog"
 
 [module]
 [module.hugoVersion]
