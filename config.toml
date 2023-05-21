@@ -1,4 +1,4 @@
-baseURL = "https://daredevil.github.io"
+baseURL = "daredevil.blog"
 title = "DarkY's Site"
 theme = "hugo-coder"
 languageCode = "en"
