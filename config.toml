@@ -1,5 +1,5 @@
 baseURL = "daredevil.blog"
-title = "Site Of BeasT"
+title = "TheBeastPortfolio"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
