@@ -17,7 +17,7 @@ author = "DarkY"
 description = "DarkY's personal website"
 keywords = "blog,developer,personal"
 info = ["Welcome to my tech-driven world! As a Tech Freak, I'm constantly exploring the latest in technology and pushing the boundaries of what's possible."]
-avatarURL = "https://media.discordapp.net/attachments/940987041922031636/1282039702404464730/IMG_20240907_233751.jpg"
+avatarURL = "https://media.discordapp.net/attachments/940987041922031636/1282039702404464730/IMG_20240907_233751.jpg?ex=66dde804&is=66dc9684&hm=4539a1f42f482cc8362da95f27c1909298b1518e6cd90cfd5575fb729d6c2886&=&format=webp&width=532&height=618"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
 since = 2021
