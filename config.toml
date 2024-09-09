@@ -1,4 +1,4 @@
-baseURL = "daredevil.blog"
+baseURL = "https://itzmebeast.github.io/"
 title = "Quantum Beast"
 theme = "hugo-coder"
 languageCode = "en"
@@ -12,9 +12,9 @@ enableEmoji = true
 style = "github-dark"
 
 [params]
-author = "DarkY"
+author = "BeasT"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
-description = "DarkY's personal website"
+description = "BeasT's personal website"
 keywords = "blog,developer,personal"
 info = ["Welcome to my tech-driven world! As a Tech Freak, I'm constantly exploring the latest in technology and pushing the boundaries of what's possible."]
 avatarURL = "https://media.discordapp.net/attachments/940987041922031636/1282732120904827053/PSX_20240403_215623.jpg?ex=66e06ce1&is=66df1b61&hm=2b9ca47ca11ea0566e584b5fab8dd3a14844d18c516820c53248d002fa2d9c1a&=&format=webp&width=240&height=240"
